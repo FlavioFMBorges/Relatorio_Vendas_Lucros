@@ -1,5 +1,7 @@
 # Relatorio Vendas e Lucros
 Relatório Vendas e Lucros com Data Analytics com Power Bi com botões de navegação, mudanças de gráficos através de botões para experiência do usuário.
+Estes relatórios serão apresentados também no You Tube no canal [Canal @flavioborges5941 do youtube](https://www.youtube.com/@flavioborges5941). Se passar por lá, aproveita, se inscreva  e deixe um joinha.
+
 
 ![Capa](https://github.com/FlavioFMBorges/Relatorio_Vendas_Lucros/blob/main/imagens/1_capa.png)  
   
@@ -11,4 +13,8 @@ Relatório Vendas e Lucros com Data Analytics com Power Bi com botões de navega
 
 Ao lado direito em destaque vemos o histograma de unidades vendidas em que foi usado o agrupamento do tipo compartimento do campo "Unit Sold" para que gerasse 10 compartimentos representados neste gráfico pelas barras e aplicado uma variação de cores para destacar o maior agrupamento. Logo abaixo temos as unidades vendidas por produto tendo como destaque o produto 'Paseo' representado pelo tamanho da barra e cor.
 
-![Página TOPN](https://github.com/FlavioFMBorges/Relatorio_Vendas_Lucros/blob/main/imagens/4_TOPN.png)
+![Página TOPN](https://github.com/FlavioFMBorges/Relatorio_Vendas_Lucros/blob/main/imagens/4_TOPN.png)  
+**Relatórioo TOP 3 Produtos e vendas** - Neste gráfico vemos os controles de player com botões de play, stop, pause, voltar, ir para frente, que ao ser usado mostra mês a mês nos gráficos como foi o desempenho naquele mês.  
+Abaixo e a esqueda vemos o gráfico de de Top 3 produtos por unidades vendidas e logo abaixo vemos o produto que se destaca, podendo ser visto por ano, trimestre e mês através dos botões de drill down logo acima do gráfico.  
+
+No lado direito e em destaque temos o gráfico de venda dos Top 3 produtos distribuidos por país, sendo a parte de cima da barra, em cor ouro a soma total de venda destes produtos e abaixa, em azul, a soma dos demais produtos. Logo abaixo vemos também na parte destacada o gráfico de vendas e lucro dos Top 3 produtos acessado através de botões. Suas cores mostram mais evidências na forma de cores do produtos mais vendidos e que trouxeram mais lucro mostrando assim o produto carro chefe da empresa.
